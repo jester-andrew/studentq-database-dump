@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5dfab5d4ddd1500004bdd141"},"name":"Dan","class":"CIT 336","question":"Ask a question","campus":"Campus","email":"","timeEnteredQue":{"$numberLong":"1576711636094"}}
+{"_id":{"$oid":"5dfab64eddd1500004bdd142"},"name":"Lisa","class":"CIT 230","question":"hkhgfku","campus":"Campus","email":"","timeEnteredQue":{"$numberLong":"1576711758500"}}

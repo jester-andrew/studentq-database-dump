@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5d9761d00085bc8fa8907c95"},"email":"jes15007@byui.edu","name":"Andrew Jester","lab":"CIT Web Lab","password":"$2b$10$gBmKI.rEkLC9jABQQ7TB0.PKb6NWKj2z6Buuhfztc8onumO7YlBP6","permissions":"Lab Assistant"}
+{"_id":{"$oid":"5dab8134b4984855638e4ab4"},"email":"admin@byui.edu","name":"Admin","lab":"CIT Web Lab","password":"$2b$10$gBmKI.rEkLC9jABQQ7TB0.PKb6NWKj2z6Buuhfztc8onumO7YlBP6","permissions":"Professor"}
+{"_id":{"$oid":"5dd06aa7f20b173eb0644848"},"lab":"CIT Network Lab","name":"netAdmin","email":"netadmin@byui.edu","password":"$2b$10$FUldHTVfv5L6X6KDYy8a.ub7TRSXQAGNUtSgO1H3317maIivku/pS","permissions":"Professor"}
+{"_id":{"$oid":"5dd06afaf20b173eb064484a"},"lab":"CIT Database Lab","name":"dataAdmin","email":"dataadmin@byui.edu","password":"$2b$10$Oy6JqiIw7diudum3aDGXve2nibOrvCzuUX0Xn1FphzkY05vWxrNcq","permissions":"Professor"}
+{"_id":{"$oid":"5df5410863c4bb0004e7c71a"},"lab":"CIT Web Lab","name":"Brother Kumar","email":"kumarr@byui.edu","password":"$2b$10$oRT/vNe7RDW.dd9CVsRG9.KttQAV0ldyEF/229E0nru7kKqosTOsK","permissions":"Professor"}
+{"_id":{"$oid":"5e2c612418858800041eacb7"},"lab":"CIT Web Lab","name":"webAdm is n","email":"webAdmin@byui.edu","password":"$2b$10$EmB86.KAG4hExRwIgnvBuOJJUhHlhuCKuDt/qhF3Pg3octVy9RTGS","permissions":"Professor"}
+{"_id":{"$oid":"5e2cebbab6ebd500041371a4"},"lab":"CIT Web Lab","name":"Ronaldo","email":"rfcorrea@byui.edu","password":"$2b$10$Vpazxf.Jy2IHnCxspK4g8OoEoCFwhS/EOV30guU.n8JHRAKMEhslG","permissions":"Professor"}

@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5d92b18444a1892000a9a1a1"},"alias":"CIT Web Lab","collection":"web_lab_q"}
+{"_id":{"$oid":"5dab81ea81298d9c8e5122a7"},"alias":"CIT Database Lab","collection":"database_lab_q"}
+{"_id":{"$oid":"5dab820c81298d9c8e5122a8"},"alias":"CIT Network Lab","collection":"network_lab_q"}
